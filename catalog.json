@@ -10,7 +10,10 @@
       "repo": "AImunich20/petal-releases",
       "bundleId": "com.zen20.petal",
       "appName": "Petal.app",
-      "assets": ["Petal.dmg", "Petal-*.dmg"],
+      "assets": [
+        "Petal.dmg",
+        "Petal-*.dmg"
+      ],
       "accent": "#1abd99",
       "minMacOS": "14.0",
       "homepage": "https://aimunich20.github.io/petal-releases/",
@@ -25,10 +28,15 @@
       "repo": "AImunich20/keyswap-releases",
       "bundleId": "io.github.aimunich20.keyswap",
       "appName": "KeySwap.app",
-      "assets": ["KeySwap.dmg", "KeySwap-*.dmg"],
+      "assets": [
+        "KeySwap.dmg",
+        "KeySwap-*.dmg"
+      ],
       "accent": "#2f6fd6",
       "minMacOS": "11.0",
-      "arch": ["arm64"],
+      "arch": [
+        "arm64"
+      ],
       "homepage": "https://github.com/AImunich20/keyswap-releases",
       "updater": "GitHub Releases (ในแอป)"
     },
@@ -41,10 +49,15 @@
       "repo": "AImunich20/state-releases",
       "bundleId": "io.github.aimunich20.state",
       "appName": "State.app",
-      "assets": ["State.dmg", "State-*.dmg"],
+      "assets": [
+        "State.dmg",
+        "State-*.dmg"
+      ],
       "accent": "#5b8cff",
       "minMacOS": "12.0",
-      "arch": ["arm64"],
+      "arch": [
+        "arm64"
+      ],
       "homepage": "https://github.com/AImunich20/state-releases",
       "updater": "GitHub Releases (ในแอป)"
     },
@@ -57,8 +70,14 @@
       "repo": "AImunich20/buildweb-releases",
       "bundleId": "com.buildweb.app",
       "appName": "BuildWeb.app",
-      "assets": ["BuildWeb.dmg", "BuildWeb_*_aarch64.dmg"],
-      "assetsIntel": ["BuildWeb-Intel.dmg", "BuildWeb_*_x64.dmg"],
+      "assets": [
+        "BuildWeb.dmg",
+        "BuildWeb_*_aarch64.dmg"
+      ],
+      "assetsIntel": [
+        "BuildWeb-Intel.dmg",
+        "BuildWeb_*_x64.dmg"
+      ],
       "accent": "#ff7a45",
       "minMacOS": "11.0",
       "homepage": "https://github.com/AImunich20/buildweb-releases",
@@ -73,10 +92,16 @@
       "repo": "AImunich20/clearframe-releases",
       "bundleId": "com.clearframe.app",
       "appName": "ClearFrame.app",
-      "assets": ["ClearFrame.dmg", "ClearFrame_*_arm64.dmg", "ClearFrame_*_aarch64.dmg"],
+      "assets": [
+        "ClearFrame.dmg",
+        "ClearFrame_*_arm64.dmg",
+        "ClearFrame_*_aarch64.dmg"
+      ],
       "accent": "#a970ff",
       "minMacOS": "12.0",
-      "arch": ["arm64"],
+      "arch": [
+        "arm64"
+      ],
       "homepage": "https://github.com/AImunich20/clearframe-releases",
       "updater": "Tauri updater (latest.json)"
     },
@@ -89,10 +114,16 @@
       "repo": "AImunich20/cleaningsheet-releases",
       "bundleId": "com.cleaningsheet.app",
       "appName": "CleaningSheet.app",
-      "assets": ["CleaningSheet.dmg", "CleaningSheet_*_arm64.dmg", "CleaningSheet_*_aarch64.dmg"],
+      "assets": [
+        "CleaningSheet.dmg",
+        "CleaningSheet_*_arm64.dmg",
+        "CleaningSheet_*_aarch64.dmg"
+      ],
       "accent": "#22b573",
       "minMacOS": "10.13",
-      "arch": ["arm64"],
+      "arch": [
+        "arm64"
+      ],
       "homepage": "https://github.com/AImunich20/cleaningsheet-releases",
       "updater": "Tauri updater (latest.json)"
     },
@@ -105,14 +136,19 @@
       "repo": "AImunich20/Ansomnia",
       "bundleId": "com.aimunich20.ansomnia",
       "appName": "Ansomnia.app",
-      "assets": ["Ansomnia.dmg", "Ansomnia-*.dmg"],
+      "assets": [
+        "Ansomnia.dmg",
+        "Ansomnia-*.dmg"
+      ],
       "installer": "command",
       "installCommand": "Install Ansomnia.command",
       "accent": "#8a7dff",
       "minMacOS": "26.0",
-      "arch": ["arm64"],
+      "arch": [
+        "arm64"
+      ],
       "homepage": "https://github.com/AImunich20/Ansomnia",
-      "updater": "GitHub Releases (ในแอป)"
+      "updater": "GitHub Releases (ในแอป, ตรวจเองทุก 6 ชม.)"
     },
     {
       "id": "april",
@@ -123,10 +159,15 @@
       "repo": "AImunich20/April",
       "bundleId": "app.april.mac",
       "appName": "April.app",
-      "assets": ["April.dmg", "April-*.dmg"],
+      "assets": [
+        "April.dmg",
+        "April-*.dmg"
+      ],
       "accent": "#ff8fb1",
       "minMacOS": "14.0",
-      "arch": ["arm64"],
+      "arch": [
+        "arm64"
+      ],
       "homepage": "https://github.com/AImunich20/April",
       "updater": "GitHub Releases (ในแอป)"
     },
@@ -139,12 +180,18 @@
       "repo": "AImunich20/a8a",
       "bundleId": "com.aimunich20.a8a",
       "appName": "a8a.app",
-      "assets": ["a8a.dmg", "a8a-*-arm64-mac.dmg", "a8a-*.dmg"],
+      "assets": [
+        "a8a.dmg",
+        "a8a-*-arm64-mac.dmg",
+        "a8a-*.dmg"
+      ],
       "accent": "#ff6d5a",
       "minMacOS": "12.0",
-      "arch": ["arm64"],
+      "arch": [
+        "arm64"
+      ],
       "homepage": "https://github.com/AImunich20/a8a",
-      "updater": "GitHub Releases (ในแอป)"
+      "updater": "GitHub Releases (ในแอป, ตรวจเองทุก 6 ชม.)"
     },
     {
       "id": "envy",
@@ -156,11 +203,16 @@
       "private": true,
       "bundleId": "app.envy.mac",
       "appName": "Envy.app",
-      "assets": ["Envy.dmg", "Envy-*.dmg"],
+      "assets": [
+        "Envy.dmg",
+        "Envy-*.dmg"
+      ],
       "accent": "#4fd1c5",
       "minMacOS": "14.0",
-      "arch": ["arm64"],
-      "updater": "GitHub Releases (ในแอป, ต้องมี token)"
+      "arch": [
+        "arm64"
+      ],
+      "updater": "GitHub Releases (ในแอป, ใส่ token ในหน้า ระบบ › อัปเดต)"
     }
   ]
 }
